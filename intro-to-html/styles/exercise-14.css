@@ -1,0 +1,162 @@
+body {
+  height: 3000px;
+}
+
+.a14 {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+
+  background-color: black;
+  color: white;
+}
+
+.b14 {
+  position: fixed;
+  width: 100px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+
+  background-color: green;
+}
+
+.c14 {
+  position: fixed;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal {
+  background-color: white;
+  width: 300px;
+  height: 130px;
+  padding-left: 15px;
+  border-radius: 10px;
+}
+
+.facebook {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+
+  background-color: white;
+  height: 60px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.e14-pfp,
+.f14-pfp {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.name {
+  font-family: Arial;
+  margin: 0px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+.add,
+.message {
+  font-family: Arial;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.message {
+  background-color: rgb(204, 204, 204);
+  color: black;
+}
+
+.discord {
+  display: flex;
+  width: 250px;
+
+  position: fixed;
+  top: 60px;
+  bottom: 0px;
+  left: 0px;
+}
+
+.server-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 70px;
+  padding-top: 18px;
+  background-color: rgb(45, 45, 45);
+}
+
+.f14-pfp {
+  padding-bottom: 8px;
+}
+
+.channel-bar {
+  display: flex;
+  flex-direction: column;
+
+  width: 180px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 18px;
+  background-color: rgb(61, 61, 61);
+}
+
+.channel,
+.server-name,
+.plus {
+  font-family: Arial;
+  margin: 0px;
+  color: grey;
+}
+
+.server {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 7px;
+}
+
+.server-name {
+  font-size: 14px;
+  color: rgb(229, 229, 229);
+}
+
+.plus {
+  font-size: 24px;
+}
+
+.channel {
+  font-size: 16px;
+  padding-bottom: 18px;
+}

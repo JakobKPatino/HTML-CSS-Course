@@ -1,0 +1,24 @@
+/* CSS Comment */
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body {
+  margin: 0px;
+
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+
+  padding-bottom: 3000px;
+
+  font-family: Roboto, Arial;
+  background-color: rgb(249, 249, 249);
+}
+
+@media (min-width: 1200px) {
+  body {
+    padding-left: 204px;
+  }
+}

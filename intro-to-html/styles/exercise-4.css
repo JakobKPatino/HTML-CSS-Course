@@ -1,0 +1,109 @@
+.tahoma {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.sales {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.deals {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.sale-end {
+  color: red;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+.html {
+  font-family: Verdana;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  color: grey;
+  margin-bottom: 16px;
+}
+
+.description {
+  width: 300px;
+  margin-bottom: 16px;
+}
+
+.start {
+  background-color: rgb(0, 180, 0);
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+
+.ad {
+  font-family: Arial;
+  text-align: center;
+  width: 400px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.headline {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 18px;
+}
+
+.tagline {
+  margin-bottom: 18px;
+}
+
+.learn {
+  color: blue;
+}
+
+.stocks {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.price {
+  font-size: 30px;
+  margin-bottom: 6px;
+}
+
+.currency {
+  font-size: 15px;
+  color: grey;
+}
+
+.today {
+  font-size: 15px;
+  color: green;
+  margin-bottom: 8px;
+}
+
+.after {
+  color: grey;
+  font-size: 15px;
+}
+
+.negative {
+  color: red;
+}

@@ -1,0 +1,209 @@
+.uber-button {
+  background-color: black;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  transition: opacity 0.15s;
+  cursor: pointer;
+}
+
+.uber-button:hover {
+  opacity: 0.7;
+}
+
+.amazon-button {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  padding-left: 52px;
+  padding-right: 52px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 50px;
+  transition: background-color 0.15s;
+  cursor: pointer;
+}
+
+.amazon-button:hover {
+  background-color: rgb(245, 206, 20);
+}
+
+.github-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: none;
+  border-radius: 7px;
+  font-weight: bold;
+  font-size: 15px;
+  transition: box-shadow 0.15s;
+  cursor: pointer;
+}
+
+.github-button:hover {
+  box-shadow: 0 3px 7px rgba(0, 0, 0, .15);
+}
+
+.bootstrap-start-button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 8px;
+  transition: background-color 0.15s;
+  cursor: pointer;
+}
+
+.bootstrap-start-button:hover {
+  background-color: rgb(111, 72, 179);
+}
+
+.bootstrap-download-button {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  border-color: rgb(108, 117, 125);
+  border-width: 1px;
+  border-radius: 4px;
+  border-style: solid;
+  font-weight: bold;
+  font-size: 15px;
+  transition: background-color 0.15s,
+    color 0.15s;
+  cursor: pointer;
+}
+
+.bootstrap-download-button:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+
+.linkedin-apply-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: none;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 8px;
+  transition: backgound-color 0.15s;
+  cursor: pointer;
+}
+
+.linkedin-apply-button:hover {
+  background-color: rgb(0, 82, 194);
+}
+
+.linkedin-save-button {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  padding-left: 19px;
+  padding-right: 19px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  border-color: rgb(10, 102, 194);
+  border-width: 1px;
+  border-radius: 50px;
+  border-style: solid;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 8px;
+  transition: background-color 0.15s;
+  cursor: pointer;
+}
+
+.linkedin-save-button:hover {
+  background-color: rgba(0, 0, 255, .1);
+  border-width: 2px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.amazon-link {
+  color: rgb(0, 113, 113);
+}
+
+.amazon-link:hover {
+  color: orange;
+}
+
+.amazon-product {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.amazon-price {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.amazon-cart {
+  background-color: rgb(255, 216, 28);
+  color: black;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-weight: bold;
+  font-size: 15px;
+  border: none;
+  border-radius: 50px;
+  margin-right: 8px;
+  transition: opacity 0.15s,
+  background-color 0.15s;
+  cursor: pointer;
+}
+
+.amazon-cart:hover {
+  background-color: rgb(235, 196, 28);
+}
+
+.amazon-cart:active {
+  opacity: 0.7;
+}
+
+.amazon-buy {
+  background-color: rgb(255, 148, 28);
+  color: black;
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-weight: bold;
+  font-size: 15px;
+  border: none;
+  border-radius: 20px;
+  margin-right: 8px;
+  transition: opacity 0.15s,
+  background-color 0.15s;
+  cursor: pointer;
+}
+
+.amazon-buy:hover {
+  background-color: rgb(235, 128, 28);
+}
+
+.amazon-buy:active {
+  opacity: 0.7;
+}
